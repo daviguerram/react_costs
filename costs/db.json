@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "id": "f607",
+      "name": "teste",
+      "budget": "5000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [
+        {
+          "name": "Criar Landind Pages",
+          "cost": "1000",
+          "description": "Criar Lps através do Scribo para clientes",
+          "id": "58d9abe1-8836-41b4-a43f-01e97d7c7a3d"
+        }
+      ]
+    },
+    {
+      "id": "2d7b",
+      "name": "meu projeto 3",
+      "budget": "15000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "e2f5",
+      "name": "Site - Prodaub",
+      "budget": "2000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
